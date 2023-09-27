@@ -1,0 +1,109 @@
+
+.grey-container {
+    background-color: grey;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.yellow-container {
+    background-color: #f5cb40;
+    height: 10vh;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-top:5px;
+}
+
+.builder-heading {
+    text-align: left;
+    font-weight: bold;
+    font-size: 65px;
+    font-family: Segoe UI;
+}
+
+.top-right-container {
+    text-align: end;
+}
+
+.icns {
+    font-size: 35px;
+    color: black;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.small-heads {
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.img-container {
+    background-image: url("https://previews.123rf.com/images/jomvairai/jomvairai1809/jomvairai180900248/108272206-three-industrial-engineer-wear-safety-helmet-engineering-working-and-talking-with-drawings.jpg");
+    background-size: cover;
+    height: 80vh;
+    opacity: 0.7;
+}
+
+.img-fir-head {
+    color: white;
+    font-size: 60px;
+}
+
+.img-sec-head {
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.yellow-clr {
+    color: #f5cb40;
+    font-size: 20px;
+}
+
+.white-clr {
+    color: #ffffff;
+    font-size: 20px;
+    padding-right: 10px;
+    opacity: 1;
+}
+
+.slct {
+    background-color: black;
+    color: white;
+    backface-visibility: hidden;
+
+}
+
+.butn {
+    height: 60px;
+    width: 130px;
+    margin-left: 220px;
+    background-color: #ffffff;
+    border-width: 3px;
+}
+.bottom-fir-cont{
+    background-color: black;
+    width:34%
+}
+.bottom-fir-icn{
+    color:#f5cb40;
+    font-size:40px;
+    padding-top:20px;
+    padding-right:10px;
+}
+.bottom-yellow-head{
+    color:#f5cb40;
+}
+.bottom-sec-cont{
+    background-color: #f5cb40;
+    width:32%
+}
+.bottom-sec-icn{
+    color:black;
+    font-size:40px;
+    padding-top:20px;
+    padding-right:10px;
+}
+.bottom-black-head{
+    color:black;
+}

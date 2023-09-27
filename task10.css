@@ -1,0 +1,26 @@
+.bg-container{
+    background-color: white;
+    
+    height: 100vh;
+}
+table{
+    border:1px solid black;
+    padding:5px
+}
+.home{
+    background-color: grey;
+    color:white;
+    width:100px
+}
+.home1{
+    background-color: rgba(240, 255, 255, 0.769);
+    width:80px
+}
+.first{
+    float:left;
+    width: 50%;
+}
+.second{
+    float:right;
+    width: 50%;
+}

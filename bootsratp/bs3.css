@@ -1,0 +1,34 @@
+.bg-container{
+    padding:10px;
+}
+.nav-heads{
+    color:black;
+    font-size: 18px;
+}
+.price-container{
+    width:70%;
+    text-align: center;
+    margin-left:300px;
+}
+.pricing-par{
+    font-size:20px;
+    text-align: center;
+    
+}
+.card-container{
+    width:33%;
+}
+.card-head{
+    font-size: 30px;
+}
+.list-stle{
+    list-style: none;
+}
+.btsrap-img{
+    height:30px;
+    width:40px;
+}
+.list-stle-gry{
+    list-style: none;
+    color: grey;
+}

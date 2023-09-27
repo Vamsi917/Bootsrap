@@ -1,0 +1,20 @@
+.grey-container{
+    background-color: rgb(230, 222, 222);
+    initial-letter-align: center;
+}
+.frm{
+    position: relative;
+}
+.icns{
+    position: absolute;
+    left: calc(11%);
+    padding-top: 5px;
+    padding-right: 5px;
+    color: red;
+}
+.par{
+    color:red
+}
+.inpt{
+    width: 200px;
+}

@@ -1,0 +1,27 @@
+.first-container{
+    height:175%;
+    width:500px;
+    background-color: rgb(194, 11, 157);
+    padding:20px
+}
+.sec-container{
+    padding:20px;
+    
+    background-color: rgb(242, 67, 201);
+}
+
+.labels{
+    color:white;
+    padding-bottom: 15px;
+}
+.inputs{
+    color:black;
+    margin-bottom: 10px;
+}
+.tarea{
+    display: block;
+}
+.butn{
+    width:230px;
+    background-color: white;
+}

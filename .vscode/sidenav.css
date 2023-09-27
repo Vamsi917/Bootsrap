@@ -1,0 +1,41 @@
+.container{
+    border-width: 2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-color: black;
+    border-style: double;
+    width:50%;
+    display: flex;
+}
+.clr-1{
+    background-color:red;
+    height:20px;
+    width:20px;
+    margin-bottom: 7px;
+}
+.clr-2{
+    background-color:blue;
+    height:20px;
+    width:20px;
+    margin-bottom: 7px;
+}
+.clr-3{
+    background-color:green;
+    height:20px;
+    width:20px;
+    margin-bottom:7px;
+}
+.clr-4{
+    background-color:black;
+    height:20px;
+    width:20px;
+    margin-bottom: 7px;
+}
+.fir-container{
+    float:left;
+    width:10%;
+}
+.sec-container{
+    float:right;
+    
+}
